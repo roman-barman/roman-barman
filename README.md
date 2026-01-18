@@ -14,7 +14,7 @@ I'm a Software Engineer with a strong focus on **C#**, **.NET**, **Rust** and **
 
 ### 🌱 What I’m currently learning
 - 🦀 Developing robust backend services using **Rust** (check out `patient-api` and `zero2prod`).
-- 🏗️ Building low-level systems with **CodeCrafters** (Redis, Git, SQLite, Shell, DNS).
+- 🏗️ Building low-level systems with **CodeCrafters** (Redis, SQLite, Shell, DNS).
 
 ### 📫 How to reach me
 - **Email:** [roman.zanko.vl@gmail.com](mailto:roman.zanko.vl@gmail.com)
