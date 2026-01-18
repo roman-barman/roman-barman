@@ -5,7 +5,6 @@ I'm a Software Engineer with a strong focus on **C#**, **.NET**, **Rust** and **
 ### 🎓 Courses & Challenges
 - **CodeCrafters Challenges:** Implementing complex systems from scratch in Rust:
   - [Build Your Own Redis](https://github.com/roman-barman/codecrafters-redis-rust)
-  - [Build Your Own Git](https://github.com/roman-barman/codecrafters-git-rust)
   - [Build Your Own SQLite](https://github.com/roman-barman/codecrafters-sqlite-rust)
   - [Build Your Own Shell](https://github.com/roman-barman/codecrafters-shell-rust)
   - [Build Your Own DNS server](https://github.com/roman-barman/codecrafters-dns-server-rust)
