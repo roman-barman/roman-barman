@@ -11,6 +11,7 @@ I'm a Software Engineer with a strong focus on **C#**, **.NET**, **Rust** and **
 - **Yandex Practicum:** Rust Developer program projects:
   - [Yandex Practicum Streaming Quotes](https://github.com/roman-barman/yandex-practicum-streaming-quotes): A streaming quotes service.
   - [Yandex Practicum Bank Statement Parser](https://github.com/roman-barman/yandex-practicum-bank-statement-parser): Bank statement parser written in Rust.
+  - [Yandex Practicum Image Processing](https://github.com/roman-barman/yandex-practicum-image-processing): CLI with plugins for image processing.
 
 ### 🌱 What I’m currently learning
 - 🦀 Developing robust backend services using **Rust** (check out `patient-api` and `zero2prod`).
