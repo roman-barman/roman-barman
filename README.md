@@ -18,6 +18,12 @@ I'm a Software Engineer with 9+ years of commercial experience in .NET and C#, h
 - 🤖 Studying AI agents — learning how to build and integrate intelligent systems
 - 📚 Strengthening Computer Science fundamentals — algorithms, data structures, and systems concepts
 
+### 💼 Commercial Experience
+- 9+ years of backend development in .NET and C#
+- Domains: fintech, banking, GIS, enterprise software
+- Worked on payment provider integrations, service migrations, system architecture, and performance optimization
+- Experience with microservices, Clean Architecture, REST API, gRPC, Kubernetes
+
 ### 📫 How to reach me
 - **Email:** [roman.zanko.vl@gmail.com](mailto:roman.zanko.vl@gmail.com)
 - **GitHub:** [roman-barman](https://github.com/roman-barman)
