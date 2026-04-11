@@ -4,14 +4,14 @@ I'm a Software Engineer with 9+ years of commercial experience in .NET and C#, h
 
 ### 🎓 Courses & Challenges
 - **CodeCrafters Challenges:** Implementing complex systems from scratch in Rust:
-  - [Build Your Own Redis](https://github.com/roman-barman/codecrafters-redis-rust)
-  - [Build Your Own SQLite](https://github.com/roman-barman/codecrafters-sqlite-rust)
-  - [Build Your Own Shell](https://github.com/roman-barman/codecrafters-shell-rust)
-  - [Build Your Own DNS server](https://github.com/roman-barman/codecrafters-dns-server-rust)
+  - [Build Your Own Redis](https://github.com/roman-barman/codecrafters-redis-rust) - Redis server with core commands and networking
+  - [Build Your Own Shell](https://github.com/roman-barman/codecrafters-shell-rust) - Unix shell with command parsing and process management
+  - [Build Your Own DNS server](https://github.com/roman-barman/codecrafters-dns-server-rust) - DNS server implementing the DNS protocol
 - **Yandex Practicum:** Rust Developer program projects:
-  - [Yandex Practicum Streaming Quotes](https://github.com/roman-barman/yandex-practicum-streaming-quotes): A streaming quotes service.
-  - [Yandex Practicum Bank Statement Parser](https://github.com/roman-barman/yandex-practicum-bank-statement-parser): Bank statement parser written in Rust.
-  - [Yandex Practicum Image Processing](https://github.com/roman-barman/yandex-practicum-image-processing): CLI with plugins for image processing.
+  - [Blog](https://github.com/roman-barman/yandex-practicum-blog) - Multi-component blog system: REST API + gRPC + WebAssembly frontend
+  - [Streaming Quotes](https://github.com/roman-barman/yandex-practicum-streaming-quotes) - Real-time streaming quotes service with multithreaded processing
+  - [Bank Statement Parser](https://github.com/roman-barman/yandex-practicum-bank-statement-parser) - CLI tool for parsing bank statements
+  - [Image Processing](https://github.com/roman-barman/yandex-practicum-image-processing) - CLI with plugins for image processing
 
 ### 🌱 What I’m currently learning
 - 🦀 Developing robust backend services using **Rust** (check out `patient-api` and `zero2prod`).
