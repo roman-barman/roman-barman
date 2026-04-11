@@ -14,8 +14,9 @@ I'm a Software Engineer with 9+ years of commercial experience in .NET and C#, h
   - [Image Processing](https://github.com/roman-barman/yandex-practicum-image-processing) - CLI with plugins for image processing
 
 ### 🌱 What I’m currently learning
-- 🦀 Developing robust backend services using **Rust** (check out `patient-api` and `zero2prod`).
-- 🏗️ Building low-level systems with **CodeCrafters** (Redis, SQLite, Shell, DNS).
+- 🦀 Deepening my knowledge of Rust — exploring advanced language features and best practices
+- 🤖 Studying AI agents — learning how to build and integrate intelligent systems
+- 📚 Strengthening Computer Science fundamentals — algorithms, data structures, and systems concepts
 
 ### 📫 How to reach me
 - **Email:** [roman.zanko.vl@gmail.com](mailto:roman.zanko.vl@gmail.com)
