@@ -27,6 +27,3 @@ I'm a Software Engineer with 9+ years of commercial experience in .NET and C#, h
 ### 📫 How to reach me
 - **Email:** [roman.zanko.vl@gmail.com](mailto:roman.zanko.vl@gmail.com)
 - **LinkedIn:** [roman-zanko](https://www.linkedin.com/in/roman-zanko/)
-
----
-*“Always learning, always building.”*
