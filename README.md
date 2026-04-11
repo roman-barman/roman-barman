@@ -1,6 +1,6 @@
 ## Hi there, I'm Raman Zanko! 👋
 
-I'm a Software Engineer with a strong focus on **C#**, **.NET**, **Rust** and **Backend Development**. I enjoy building efficient, scalable systems and exploring low-level programming.
+I'm a Software Engineer with 9+ years of commercial experience in .NET and C#, having worked in fintech, GIS, and enterprise domains. Lately I've been deepening my knowledge of Rust — building systems from the ground up and writing production-style backend services.
 
 ### 🎓 Courses & Challenges
 - **CodeCrafters Challenges:** Implementing complex systems from scratch in Rust:
