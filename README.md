@@ -1,29 +1,42 @@
-## Hi there, I'm Raman Zanko! 👋
+## Hi, I'm Raman Zanko! 👋
 
-I'm a Software Engineer with 9+ years of commercial experience in .NET and C#, having worked in fintech, GIS, and enterprise domains. Lately I've been deepening my knowledge of Rust — building systems from the ground up and writing production-style backend services.
+Senior software engineer with 9+ years of commercial experience building systems in fintech, banking, GIS, and enterprise software. I work in **Rust** and **C#**, with a focus on backend services, network programming, and data processing.
 
-### 🎓 Courses & Challenges
-- **CodeCrafters Challenges:** Implementing complex systems from scratch in Rust:
-  - [Build Your Own Redis](https://github.com/roman-barman/codecrafters-redis-rust) - Redis server with core commands and networking
-  - [Build Your Own Shell](https://github.com/roman-barman/codecrafters-shell-rust) - Unix shell with command parsing and process management
-  - [Build Your Own DNS server](https://github.com/roman-barman/codecrafters-dns-server-rust) - DNS server implementing the DNS protocol
-- **Yandex Practicum:** Rust Developer program projects:
-  - [Blog](https://github.com/roman-barman/yandex-practicum-blog) - Multi-component blog system: REST API + gRPC + WebAssembly frontend
-  - [Streaming Quotes](https://github.com/roman-barman/yandex-practicum-streaming-quotes) - Real-time streaming quotes service with multithreaded processing
-  - [Bank Statement Parser](https://github.com/roman-barman/yandex-practicum-bank-statement-parser) - CLI tool for parsing bank statements
-  - [Image Processing](https://github.com/roman-barman/yandex-practicum-image-processing) - CLI with plugins for image processing
+## Projects
 
-### 🌱 What I’m currently learning
-- 🦀 Deepening my knowledge of Rust — exploring advanced language features and best practices
-- 🤖 Studying AI agents — learning how to build and integrate intelligent systems
-- 📚 Strengthening Computer Science fundamentals — algorithms, data structures, and systems concepts
+### [semantic-gateway](https://github.com/roman-barman/semantic-gateway) — Semantic Layer / BI Gateway
+Define business metrics and dimensions in YAML and query data through them over HTTP. Built on **Apache DataFusion**: semantic queries are translated into typed logical plans (no SQL string construction), with a pluggable data source abstraction and structured error handling.
+`Rust` `DataFusion` `Actix-web` `Tokio` `Parquet`
 
-### 💼 Commercial Experience
-- 9+ years of backend development in .NET and C#
+### [blog-platform](https://github.com/roman-barman/blog-platform) — Multi-component blog system
+Full-stack system in a single Cargo workspace: REST API (**Actix-web**), gRPC services (**Tonic**), **WebAssembly** frontend (Yew), CLI tooling, shared client library, PostgreSQL.
+`Rust` `Actix-web` `Tonic` `Yew` `PostgreSQL`
+
+### [bank-statement-parser](https://github.com/roman-barman/bank-statement-parser) — SWIFT & ISO 20022 statement tools
+Library and CLI tools for real-world banking formats: **MT940** (SWIFT) and **CAMT.053** (ISO 20022). Parse, convert between formats, and reconcile transactions across files.
+`Rust` `MT940` `CAMT.053` `Fintech`
+
+### [quote-streamer](https://github.com/roman-barman/quote-streamer) — Real-time quote streaming service
+Client-server system streaming stock quotes: subscription management over **TCP**, data delivery over **UDP**, multithreaded server with concurrent client handling.
+`Rust` `TCP/UDP` `Multithreading`
+
+### [image-processing-cli](https://github.com/roman-barman/image-processing-cli) — Plugin-based image processor
+CLI with a **dynamically loaded plugin architecture**: filters compiled as shared libraries (`.so`/`.dll`) and loaded at runtime.
+`Rust` `Dynamic loading` `CLI`
+
+### Systems from scratch
+Low-level implementations of real-world systems, built to understand how they work under the hood:
+- [**Redis server**](https://github.com/roman-barman/codecrafters-redis-rust) — core commands, networking, data persistence
+- [**DNS server**](https://github.com/roman-barman/codecrafters-dns-server-rust) — DNS protocol and query resolution
+- [**Unix shell**](https://github.com/roman-barman/codecrafters-shell-rust) — command parsing, process management, built-ins
+
+## Commercial Experience
+
+- 9+ years of backend development (.NET/C#), currently adopting Rust for systems work
 - Domains: fintech, banking, GIS, enterprise software
-- Worked on payment provider integrations, service migrations, system architecture, and performance optimization
-- Experience with microservices, Clean Architecture, REST API, gRPC, Kubernetes
+- Payment provider integrations, service migrations, architecture design, performance optimization
+- Microservices, Clean Architecture, REST, gRPC, Kubernetes
 
-### 📫 How to reach me
+## Reach me
 - **Email:** [roman.zanko.vl@gmail.com](mailto:roman.zanko.vl@gmail.com)
 - **LinkedIn:** [roman-zanko](https://www.linkedin.com/in/roman-zanko/)
