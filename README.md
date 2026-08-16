@@ -1,6 +1,6 @@
 ## Hi, I'm Raman Zanko! 👋
 
-Senior software engineer with 9+ years of commercial experience building systems in fintech, banking, GIS, and enterprise software. I work in **Rust** and **C#**, with a focus on backend services, network programming, and data processing.
+Software engineer with 9+ years of commercial experience building systems in fintech, banking, GIS, and enterprise software. I work in **Rust** and **C#**, with a focus on backend services, network programming, and data processing.
 
 ## Projects
 
